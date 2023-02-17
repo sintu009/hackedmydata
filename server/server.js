@@ -17,6 +17,8 @@ const getData = async (email) => {
   //   return;
   // }
 
+
+  // sintu 
   // console.log(emailIds[itr])
   const options = {
     method: 'GET',
